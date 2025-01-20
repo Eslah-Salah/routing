@@ -1,0 +1,20 @@
+.home{
+    background-color: #1abc9c;
+   
+}
+img {
+    width: 250px;
+}
+.home p{
+    color: blue;
+
+}
+.line{
+height: 4px;
+width: 80px;
+}
+ .star{
+display: flex;
+justify-content: center;
+align-items: center;
+ }

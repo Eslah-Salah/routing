@@ -1,0 +1,32 @@
+.footer-app{
+   width: 100%
+}
+
+.footer {
+    background-color: #2c3e50;
+    color: #fff;
+    text-align: center;
+    padding: 40px;
+ 
+}
+.card {
+    --bs-card-border-color: none;
+    --bs-card-bg: transparent;
+    color: #fff;
+}
+.footer i {
+   
+    border: 1px white solid;
+    border-radius: 50%;
+    padding: 10px;
+    margin: 0 5px;
+}
+.footer-p{
+    background-color: #1a252f;
+    padding: 10px;
+}
+.footer-p p {
+    text-align: center;
+    color: #f0f8ff;
+    padding-top: 10px;
+}
